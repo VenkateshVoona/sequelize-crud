@@ -6,11 +6,11 @@ This project is a simple node application which can perform CRUD operation and i
 
 1. Install Node Modules
   
-  > $ npm install 
+    > $ npm install 
   
 2. Run the application 
 
-  > $ npm run start 
+   > $ npm run start 
  
 3. Test the REST APIs in POSTman 
 
