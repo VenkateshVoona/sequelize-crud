@@ -16,9 +16,13 @@ This project is a simple node application which can perform CRUD operation and i
 
   API routes : 
   
-    http://localhost:3000/api/create - For creating Product Object 
-    http://localhost:3000/api/products - For getting all products data
-    http://localhost:3000/api/Product/1 - For get product with id=1 
-    http://localhost:3000/api/product/remove/1 - For deleting product with id =1 
-    http://localhost:3000/api/product/update/1 - For updating product details 
+  http://localhost:3000/api/create - For creating Product Object 
   
+  http://localhost:3000/api/products - For getting all products data
+  
+  http://localhost:3000/api/Product/1 - For get product with id=1 
+  
+  http://localhost:3000/api/product/remove/1 - For deleting product with id =1 
+  
+  http://localhost:3000/api/product/update/1 - For updating product details 
+
