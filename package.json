@@ -1,0 +1,18 @@
+{
+  "name": "sequilize_demo",
+  "version": "1.0.0",
+  "description": "Demonstration iof Sequilize ORM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "author": "Venkatesh Voona",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "logger": "0.0.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0"
+  }
+}
